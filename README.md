@@ -8,3 +8,11 @@ crone tabs for build triggers:  https://crontab-generator.org/
 thank you everyone
 More details to follow about our Agile approach 
 Starting a new build for Anu Systems
+JENKINS SONARQUNE INTEGRATION:
+THIS IS is done in the Global tool configuration tab in jenkins
+
+      jenkins -sonarqube integration 
+       visiting the pom.xml file in your project directory
+     and modify the following:
+      put in your password and user name.
+      server url. (please dont change the url)
