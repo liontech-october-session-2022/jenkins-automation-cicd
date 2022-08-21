@@ -5,3 +5,4 @@ I and Engineer Gaelle Testing slack integrations
 Best practices- for pipelines:
 All pipelines must be named using this format. e.g prince-client-pipeline
 crone tabs for build triggers:  https://crontab-generator.org/
+thank you everyone
