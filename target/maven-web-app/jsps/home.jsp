@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
+<h1 align="center">Welcome to LION TECH ACADEMY</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	           We are raising over 1m millionaires by 2030.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
@@ -36,10 +36,10 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 	<span style="font-weight: bold;">
                 Landmark Technology, 
 		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		+6473818836,
+		info@liontechacademy.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:info@liontechacademy.com">Mail to Landmark Technologies</a>
 	</span>
 </div>
 <hr>
