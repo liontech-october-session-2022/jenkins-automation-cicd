@@ -24,10 +24,11 @@ public class EmployeeService {
 		JSONObject js = new JSONObject();
 		js.put("Name", "LION TECH ACADEMY");
 		js.put("Calling Name", "Lion ");
-		js.put("DOB", "08-Nov-2011");
+		js.put("LION TECHACADEMY", "2020-08-21");
+		js.put("Frank", "1975-08-21");
 		js.put("Hobbies", "Reading Technical Blogs,Teaching, Changing lives..");
 		js.put("Places he like", "Africa, Church, His native place");
-
+                                        js.put("DevOps Modules", "Maven, Github/Git, Nexus, Sonarqube, Jenkins His native place");
 		return js.toString();
 }
 }
