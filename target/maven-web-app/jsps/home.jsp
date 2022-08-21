@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<title>Lion Technologies- Home Page</title>
+<link href="images/myLion logo.png" rel="icon">
 </head>
 </head>
 <body>
@@ -34,20 +34,20 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		<img src="images/LION TECH.png" alt="" width="150">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
+                Lion Technology, 
 		Toronto, Ontario, Canada
 		+6473818836,
 		info@liontechacademy.com
 		<br>
-		<a href="mailto:info@liontechacademy.com">Mail to Landmark Technologies</a>
+		<a href="mailto:info@liontechacademy.com">Mail to Lion Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center>Lion Technologies - Consultant, Training and Software Development</p>
+<p align=center><small>Copyrights 2021 by <a href="http://myLion tech.com/">Lion Technologies</a> </small></p>
 
 </body>
 </html>
