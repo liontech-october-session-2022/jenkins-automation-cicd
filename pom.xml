@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>com.mt</groupId>
-	<artifactId>maven-web-application</artifactId>
+	<artifactId>Lion-web-application</artifactId>
 	<packaging>war</packaging>
 	
 	<version>0.0.1-SNAPSHOT</version> 
@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Releases Nexus Repository</name>
-	      <url>http://52.60.97.76:8081/repository/liontech-class-Release/</url>
+	      <url>http://52.60.97.76:8081/repository/liontechacademy-sept-2022-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>LION TECH ACADEMY Snapshot Nexus Repository </name>
-	      <url>http://52.60.97.76:8081/repository/liontech-class-snapshot//</url>
+	      <url>http://52.60.97.76:8081/repository/liontechacademy-sept-2022-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
@@ -128,7 +128,7 @@
 				<configuration>
 					<scanIntervalSeconds>10</scanIntervalSeconds>
 					<webApp>
-						<contextPath>/maven-web-application</contextPath>
+						<contextPath>/Lion-web-application</contextPath>
 					</webApp>
 				</configuration>
 			</plugin>
@@ -141,7 +141,7 @@
 					<downloadSources>true</downloadSources>
 					<downloadJavadocs>true</downloadJavadocs>
 					<wtpversion>2.0</wtpversion>
-					<wtpContextName>maven-web-application</wtpContextName>
+					<wtpContextName>Lion-web-application</wtpContextName>
 				</configuration>
 			</plugin>
 			
